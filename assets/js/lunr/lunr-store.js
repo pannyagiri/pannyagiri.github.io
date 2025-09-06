@@ -163,4 +163,24 @@ var store = [{
       "tags": ["exterior"],
       "url": "/20250828_adquisicion-caravana/",
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Caravan.jpg"
+    },{
+    "title": "Comienza la restauración de Masoveros",
+    "subtitle": "Reparando el desastre",
+    "excerpt": "Hoy empezamos la restauración de masoveros pintando la habitación lila de blanco y saneando ese nido de ratas.",
+    "content": "Hoy empezamos la restauración de masoveros pintando la habitación lila de blanco y saneando ese nido de ratas.   Restauracion Masoveros",
+      "categories": [],
+      "date": "2025-09-06",
+      "tags": ["mantenimiento"],
+      "url": "/20250906_empieza_restauracion_masoveros/",
+      "img": "https://i.imgur.com/TGulS0F.jpg"
+    },{
+    "title": "Visita de Ajahn Rocano y Tahn Aryacitto",
+    "subtitle": "Visitas desde Santacittarama Italia",
+    "excerpt": "Ayer llegaron desde Italia Ajahn Rocano y Tahn Ariacitto.",
+    "content": "Ayer llegaron desde Italia Ajahn Rocano y Tahn Ariacitto.   Visita Ajahn Rocano",
+      "categories": [],
+      "date": "2025-09-06",
+      "tags": ["Sangha"],
+      "url": "/20250906_visita-aj-rocano/",
+      "img": "https://i.imgur.com/yRYYyeC.jpg"
     }]

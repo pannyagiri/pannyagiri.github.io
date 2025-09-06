@@ -7,8 +7,8 @@
 		<description>Pagina interna del monasterio</description>
 		<language>en-US</language>
 		<copyright>(c) 2025, Paññāgiri</copyright>	
-		<pubDate>Sat, 30 Aug 2025 18:06:22 +0200</pubDate>
-		<lastBuildDate>Sat, 30 Aug 2025 18:06:22 +0200</lastBuildDate>
+		<pubDate>Sat, 06 Sep 2025 13:33:51 +0200</pubDate>
+		<lastBuildDate>Sat, 06 Sep 2025 13:33:51 +0200</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,46 @@
 			<link></link>
 			<description>Pagina interna del monasterio</description>
 		</image><item>
+			<title>Visita de Ajahn Rocano y Tahn Aryacitto</title>
+			<description>
+				<![CDATA[	
+ 				<h3>Visitas desde Santacittarama Italia</h3>
+    		<p>1 min.</p>
+				<div><p>Ayer llegaron desde Italia Ajahn Rocano y Tahn Ariacitto.</p>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/r3m7W8O"><a href="//imgur.com/a/r3m7W8O">Visita Ajahn Rocano</a></blockquote>
+<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+</div>
+				]]>
+			</description>
+			<link>/20250906_visita-aj-rocano/</link>
+			<category>posts</category>
+		    <category>Sangha</category><media:title type="html"><![CDATA[Visita de Ajahn Rocano y Tahn Aryacitto ]]></media:title>
+      <media:content url="https://i.imgur.com/yRYYyeC.jpg" medium="image"/>
+      <media:thumbnail url="https://i.imgur.com/yRYYyeC.jpg" /><guid isPermaLink="true">/20250906_visita-aj-rocano/</guid>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0200</pubDate>
+		</item><item>
+			<title>Comienza la restauración de Masoveros</title>
+			<description>
+				<![CDATA[	
+ 				<h3>Reparando el desastre</h3>
+    		<p>1 min.</p>
+				<div><p>Hoy empezamos la restauración de masoveros pintando la habitación lila de blanco y saneando ese nido de ratas.</p>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/9TcqEfZ"><a href="//imgur.com/a/9TcqEfZ">Restauracion Masoveros</a></blockquote>
+<script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+</div>
+				]]>
+			</description>
+			<link>/20250906_empieza_restauracion_masoveros/</link>
+			<category>posts</category>
+		    <category>mantenimiento</category><media:title type="html"><![CDATA[Comienza la restauración de Masoveros ]]></media:title>
+      <media:content url="https://i.imgur.com/TGulS0F.jpg" medium="image"/>
+      <media:thumbnail url="https://i.imgur.com/TGulS0F.jpg" /><guid isPermaLink="true">/20250906_empieza_restauracion_masoveros/</guid>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0200</pubDate>
+		</item><item>
 			<title>Adquisición Caravana</title>
 			<description>
 				<![CDATA[	
@@ -272,11 +312,11 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.</p>
   <div class="carousel-inner">
         <div class="carousel-item active" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #1" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/YsXyueA.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/QtCJt3g.jpg" alt="Carousel Item #2" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
@@ -284,11 +324,11 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.</p>
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #4" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     
-	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/xY8twxK.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
+	<img class="d-block mw-100 chulapa-carousel" src="https://i.imgur.com/radOxFI.jpg" alt="Carousel Item #5" itemprop="contentUrl" />
 	</div>
         <div class="carousel-item" itemscope="" itemtype="https://schema.org/ImageObject">
     

@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="" rel="alternate" type="text/html" />
-	<updated>2025-08-30T18:06:22+02:00</updated>
+	<updated>2025-09-06T13:33:51+02:00</updated>
 	<id>/atom.xml</id>
 	<title>Paññāgiri | El projecto monastico a los pies del Montseny</title>
 	<subtitle>El projecto monastico a los pies del Montseny</subtitle>
@@ -14,6 +14,64 @@
 	<rights>(c) 2025, Paññāgiri</rights>
 	
 	<logo>https://github.com/VarabhoBhikkhu.png</logo><entry>
+		<title type="html">Visita de Ajahn Rocano y Tahn Aryacitto</title>
+		<link href="/20250906_visita-aj-rocano/" rel="alternate" type="text/html" title="Visita de Ajahn Rocano y Tahn Aryacitto"/>
+		<published>2025-09-06T00:00:00+02:00</published>
+		<updated>2025-09-06T00:00:00+02:00</updated>
+		<id>/20250906_visita-aj-rocano/</id>
+		<content type="html" xml:base="/20250906_visita-aj-rocano/">
+		
+		
+		&lt;h3&gt;Visitas desde Santacittarama Italia&lt;/h3&gt;
+		
+  		
+			&lt;img src=&#39;https://i.imgur.com/yRYYyeC.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;Ayer llegaron desde Italia Ajahn Rocano y Tahn Ariacitto.&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/r3m7W8O&quot;&gt;&lt;a href=&quot;//imgur.com/a/r3m7W8O&quot;&gt;Visita Ajahn Rocano&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Paññāgiri</name><uri></uri></author>
+		<summary type="html">&lt;p&gt;Ayer llegaron desde Italia Ajahn Rocano y Tahn Ariacitto.&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		<category term="Sangha"/>
+	</entry><entry>
+		<title type="html">Comienza la restauración de Masoveros</title>
+		<link href="/20250906_empieza_restauracion_masoveros/" rel="alternate" type="text/html" title="Comienza la restauración de Masoveros"/>
+		<published>2025-09-06T00:00:00+02:00</published>
+		<updated>2025-09-06T00:00:00+02:00</updated>
+		<id>/20250906_empieza_restauracion_masoveros/</id>
+		<content type="html" xml:base="/20250906_empieza_restauracion_masoveros/">
+		
+		
+		&lt;h3&gt;Reparando el desastre&lt;/h3&gt;
+		
+  		
+			&lt;img src=&#39;https://i.imgur.com/TGulS0F.jpg&#39; &gt;
+			
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;Hoy empezamos la restauración de masoveros pintando la habitación lila de blanco y saneando ese nido de ratas.&lt;/p&gt;
+
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/9TcqEfZ&quot;&gt;&lt;a href=&quot;//imgur.com/a/9TcqEfZ&quot;&gt;Restauracion Masoveros&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+		</content>
+		
+		<author>
+			<name>Paññāgiri</name><uri></uri></author>
+		<summary type="html">&lt;p&gt;Hoy empezamos la restauración de masoveros pintando la habitación lila de blanco y saneando ese nido de ratas.&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		<category term="mantenimiento"/>
+	</entry><entry>
 		<title type="html">Adquisición Caravana</title>
 		<link href="/20250828_adquisicion-caravana/" rel="alternate" type="text/html" title="Adquisición Caravana"/>
 		<published>2025-08-28T00:00:00+02:00</published>
@@ -350,11 +408,11 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.&lt;/p&gt;
   &lt;div class=&quot;carousel-inner&quot;&gt;
         &lt;div class=&quot;carousel-item active&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/QtCJt3g.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/YsXyueA.jpg&quot; alt=&quot;Carousel Item #1&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/YsXyueA.jpg&quot; alt=&quot;Carousel Item #2&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/QtCJt3g.jpg&quot; alt=&quot;Carousel Item #2&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
@@ -362,11 +420,11 @@ Sr.Manuel y Sr.Francisco son actualmente nuestros maestros de obra.&lt;/p&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/radOxFI.jpg&quot; alt=&quot;Carousel Item #4&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/xY8twxK.jpg&quot; alt=&quot;Carousel Item #4&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
-	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/xY8twxK.jpg&quot; alt=&quot;Carousel Item #5&quot; itemprop=&quot;contentUrl&quot; /&gt;
+	&lt;img class=&quot;d-block mw-100 chulapa-carousel&quot; src=&quot;https://i.imgur.com/radOxFI.jpg&quot; alt=&quot;Carousel Item #5&quot; itemprop=&quot;contentUrl&quot; /&gt;
 	&lt;/div&gt;
         &lt;div class=&quot;carousel-item&quot; itemscope=&quot;&quot; itemtype=&quot;https://schema.org/ImageObject&quot;&gt;
     
